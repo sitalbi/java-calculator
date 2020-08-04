@@ -3,7 +3,7 @@
 Calculator created in Java as part of a school project. It takes an input and print the result of it.
 The calculator can execute addition, substraction, multiplication and division. It can also be used with variable.
 
-##Running example
+## Running example
 
 Calculator  
  5+5    
