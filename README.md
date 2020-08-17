@@ -5,14 +5,14 @@ The calculator can execute addition, substraction, multiplication and division. 
 
 ## Running example
 
-Calculator  
- 5+5    
-= 10    
- a = 6  
-= 6  
- 18/a  
-= 3\n  
- a*(b=4)  
-=24  
- \q  
-Bye.  
+    Calculator  
+    5+5    
+    = 10    
+    a = 6  
+    = 6  
+    18/a  
+    = 3\n  
+    a*(b=4)  
+    =24  
+    \q  
+    Bye.  
